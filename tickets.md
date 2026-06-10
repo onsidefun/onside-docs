@@ -6,6 +6,8 @@ A ticket costs **$10**, paid in USDC or SOL, and a wallet can hold at most **10 
 
 Each ticket plays independently. Ten tickets means ten sets of calls, ten board positions, and ten chances to be the last one standing.
 
+Supply is capped at **10,400 tickets**, ever: 100 for each of the 104 matches. The mint stays open through the group stage and closes when the round of 32 kicks off. Whitelisted wallets get their first two tickets at **$5** each. The first 1,000 tickets minted each come with one free sealed Starter Pack, openable in the app.
+
 ## Where the $10 goes
 
 * **$9 (90%)** goes straight into the jackpot. It is the pot, not revenue.
