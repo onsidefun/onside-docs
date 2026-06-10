@@ -10,7 +10,7 @@ A ticket order only activates after its payment receipt is verified on Solana. N
 
 ## You hold your assets
 
-Tickets are Metaplex Core NFTs in your own wallet. Boost and Revive cards live in your in-game inventory bound to your wallet. We never custody your funds: payments go from your wallet to the treasury, and the winning payout goes to whichever wallet holds the winning ticket.
+Tickets are Metaplex Core NFTs in your own wallet. Boost and Revive cards live in your in-game inventory bound to your wallet. We never custody your funds: payments go from your wallet to the jackpot vault, a Squads 2-of-3 multisig on mainnet, and every final-table payout is a memo-tagged USDC transfer to whichever wallet holds that seat's ticket.
 
 ## The payouts are verified too
 
