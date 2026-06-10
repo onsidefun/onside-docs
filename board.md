@@ -10,7 +10,7 @@ A Boost multiplies the points of one future call, up to 2.00x. One card, one mat
 
 One board ranks every ticket in the game by points. Every matchday scores, but the line only cuts at **six checkpoints** pinned to the rounds of the tournament: three soft cuts through the group stage (90% / 80% / 70% survive), two hard knockout cuts (50% each), and the final-table cut that leaves exactly **8 tickets**. Below the line at a checkpoint means eliminated: offside, out of the running, stub torn. The cut comes from the bottom, so the question is never "am I first" but "am I above the line".
 
-Elimination is per ticket, not per wallet. Losing one ticket does not touch your others. A ticket minted within 48 hours of a cut cannot be cut by it (the rookie shield), and a ticket minted after the first cut starts on the line, not at zero.
+Elimination is per ticket, not per wallet. Losing one ticket does not touch your others.
 
 ## The payout
 
