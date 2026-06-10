@@ -13,4 +13,4 @@ Ownership transfers on chain. The game rights follow the NFT, so the buyer reall
 
 ## When it opens
 
-Resale opens later in the tournament, once the board has settled into something worth pricing. The payment and transfer rails are already built and proven end to end on devnet; the opening date is a game decision, not a technical one.
+The market is closed at launch: no listing, no buying. Resale opens later in the tournament, once the board has settled into something worth pricing. The payment and transfer rails are already built and proven end to end on devnet; the opening date is a game decision, not a technical one.
