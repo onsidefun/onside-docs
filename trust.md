@@ -12,6 +12,10 @@ A ticket order only activates after its payment receipt is verified on Solana. N
 
 Tickets are Metaplex Core NFTs in your own wallet. Boost and Revive cards live in your in-game inventory bound to your wallet. We never custody your funds: payments go from your wallet to the treasury, and the winning payout goes to whichever wallet holds the winning ticket.
 
+## The payout is verified too
+
+When the season is settled, the winning ticket is declared on the ledger and the payout gets its own receipt. The treasury sends the full jackpot in USDC to the wallet holding the winning ticket NFT, tagged with a payout memo, and the backend reads that transaction back from Solana and checks the memo, the amount and the destination before marking the jackpot paid. The public jackpot number drains by exactly the paid amount, on the same ledger everyone watched all season. If you bought the winning ticket on the marketplace, the payout goes to you, because the claim lives in the NFT.
+
 ## Devnet now, mainnet at kickoff
 
-The whole machine, from minting through marketplace settlement, is running end to end on Solana devnet today, and the numbers on the homepage stream from it live. Mainnet flips on for the opener on June 11. Same code, same splits, real money.
+The whole machine, from minting through match days, eliminations, marketplace settlement and the final jackpot payout, is running end to end on Solana devnet today, and the numbers on the homepage stream from it live. Mainnet flips on for the opener on June 11. Same code, same splits, real money.
