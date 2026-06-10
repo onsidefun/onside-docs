@@ -29,4 +29,4 @@ You are never betting against the house and never against odds. Everyone faces t
 
 The structure is deliberate. The headline stays huge, half the pot to one ticket, while the last cut becomes a money bubble: making the table is itself a win, and the worst seat still pays a multiple of the $10 entry that grows with the field. Every fee in the system still feeds one number; that number just lands on eight tickets instead of one.
 
-You do not have to ride it to the end, though. A surviving ticket high on the board is worth real money to someone who wants a seat, and a final-table ticket carries a hard floor value. You can sell your position on the marketplace and walk at any point. See [The marketplace](marketplace.md).
+You do not have to ride it to the end, though. A surviving ticket high on the board is worth real money to someone who wants a seat, and a final-table ticket carries a hard floor value. Once the marketplace opens later in the tournament, you can sell your position and walk. See [The marketplace](marketplace.md).
