@@ -4,6 +4,10 @@
 
 A surviving ticket is a claim on the jackpot, and claims have a price. As the field thins, a ticket sitting high on the board is worth real money to someone who missed the mint or got eliminated and wants back in. The marketplace lets holders take profit before the final whistle decides everything, and lets buyers purchase a live position instead of starting from zero.
 
+## Not just tickets
+
+Consumables trade too. Boosts and Revives pulled from packs are cards in your bag, and the same marketplace that prices tickets lets you list them or buy the edge you are missing. Pull something you do not need, sell it; need a Revive on cut night, somebody is holding one.
+
 ## The 5% fee
 
 * **95%** of the sale price goes to the seller.
