@@ -12,10 +12,10 @@ A ticket order only activates after its payment receipt is verified on Solana. N
 
 Tickets are Metaplex Core NFTs in your own wallet. Boost and Revive cards live in your in-game inventory bound to your wallet. We never custody your funds: payments go from your wallet to the treasury, and the winning payout goes to whichever wallet holds the winning ticket.
 
-## The payout is verified too
+## The payouts are verified too
 
-When the season is settled, the winning ticket is declared on the ledger and the payout gets its own receipt. The treasury sends the full jackpot in USDC to the wallet holding the winning ticket NFT, tagged with a payout memo, and the backend reads that transaction back from Solana and checks the memo, the amount and the destination before marking the jackpot paid. The public jackpot number drains by exactly the paid amount, on the same ledger everyone watched all season. If you bought the winning ticket on the marketplace, the payout goes to you, because the claim lives in the NFT.
+When the season is settled, the final-table placements are declared on the ledger and every one of the eight payouts gets its own receipt. The treasury sends each seat's USDC share to the wallet holding that ticket NFT, tagged with that payout's own memo, and the backend reads each transaction back from Solana and checks the memo, the exact amount and the destination before marking it paid. The public jackpot number drains seat by seat, by exactly the paid amounts, on the same ledger everyone watched all season, until it reads zero. If you bought a final-table ticket on the marketplace, its payout goes to you, because the claim lives in the NFT.
 
 ## Devnet now, mainnet at kickoff
 
-The whole machine, from minting through match days, eliminations, marketplace settlement and the final jackpot payout, is running end to end on Solana devnet today, and the numbers on the homepage stream from it live. Mainnet flips on for the opener on June 11. Same code, same splits, real money.
+The whole machine, from minting through match days, eliminations, merges, marketplace settlement and all eight final-table payouts, is running end to end on Solana devnet today, and the numbers on the homepage stream from it live. Mainnet flips on for the opener on June 11. Same code, same splits, real money.

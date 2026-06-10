@@ -2,12 +2,12 @@
 
 ## The loop
 
-The whole game is four verbs, repeated until one ticket is left:
+The whole game is four verbs, repeated until the final whistle:
 
 * **Mint.** Buy up to 10 tickets at $10 each. Each ticket is its own run.
 * **Predict.** Type a score for every match of the tournament. Exact scores pay the most, the right result still counts.
-* **Survive.** After each matchday the red line rises and cuts the bottom of the board. Stay above it.
-* **Win.** The last ticket above the line takes the whole jackpot.
+* **Survive.** Every matchday scores, and at six checkpoints the red line rises and cuts the bottom of the board. Stay above it.
+* **Win.** The last cut leaves the final table: eight tickets, all of them in the money. The champion takes half the pot.
 
 ## The matchday rhythm
 
@@ -17,6 +17,16 @@ You are never betting against the house and never against odds. Everyone faces t
 
 ## Winning
 
-There are no consolation tiers and no partial payouts: one ticket wins, and it wins the entire pot. That is deliberate. Every fee in the system feeds a single number, which is what makes the number worth chasing.
+**The final table pays.** Survive the last cut and you are one of eight tickets splitting the whole pool by final rank:
 
-You do not have to ride it to the end, though. A surviving ticket high on the board is worth real money to someone who wants a seat, and once the marketplace opens you can sell your position and walk. See [The marketplace](marketplace.md).
+| Place | Share |
+| --- | --- |
+| 1 (champion) | **50%** |
+| 2 | 18% |
+| 3 | 10% |
+| 4 | 6% |
+| 5 to 8 | 4% each |
+
+The structure is deliberate. The headline stays huge, half the pot to one ticket, while the last cut becomes a money bubble: making the table is itself a win, and the worst seat still pays a multiple of the $10 entry that grows with the field. Every fee in the system still feeds one number; that number just lands on eight tickets instead of one.
+
+You do not have to ride it to the end, though. A surviving ticket high on the board is worth real money to someone who wants a seat, and a final-table ticket carries a hard floor value. You can sell your position on the marketplace and walk at any point. See [The marketplace](marketplace.md).

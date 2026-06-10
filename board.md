@@ -8,10 +8,10 @@ A Boost multiplies the points of one future call, up to 2.00x. One card, one mat
 
 ## The red line
 
-One board ranks every ticket in the game by points. After each matchday settles, the red line rises and every ticket below it is eliminated: offside, out of the running, stub torn. The cut comes from the bottom, so the question every matchday is not "am I first" but "am I above the line".
+One board ranks every ticket in the game by points. Every matchday scores, but the line only cuts at **six checkpoints** pinned to the rounds of the tournament: three soft cuts through the group stage (90% / 80% / 70% survive), two hard knockout cuts (50% each), and the final-table cut that leaves exactly **8 tickets**. Below the line at a checkpoint means eliminated: offside, out of the running, stub torn. The cut comes from the bottom, so the question is never "am I first" but "am I above the line".
 
-Elimination is per ticket, not per wallet. Losing one ticket does not touch your others.
+Elimination is per ticket, not per wallet. Losing one ticket does not touch your others. A ticket minted within 48 hours of a cut cannot be cut by it (the rookie shield), and a ticket minted after the first cut starts on the line, not at zero.
 
 ## The payout
 
-When the final whistle of the tournament settles, the last ticket above the line wins and the entire jackpot pays to the wallet holding that ticket. Holding is the operative word: if you bought the winning ticket on the marketplace in the semifinals, the pot is yours.
+**The final table pays.** When the final whistle of the tournament settles, the eight surviving tickets split the entire jackpot by final rank: 50% to the champion, then 18 / 10 / 6 and 4% for each of the last four seats. Each share pays to the wallet holding that ticket NFT. Holding is the operative word: if you bought a final-table ticket on the marketplace in the semifinals, its share is yours.
